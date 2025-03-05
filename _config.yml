@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Siyeon Sia Im"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Organic chemist and a Computational chemist"
   location         : "Boston, MA"
   employer         : #"Red Brick University"
